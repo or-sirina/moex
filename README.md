@@ -5,4 +5,4 @@ install.packages("devtools")
 
 library("devtools")
 
-install_github("or-sirina / moex")
+install_github("or-sirina/moex")
